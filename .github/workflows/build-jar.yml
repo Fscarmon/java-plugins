@@ -79,4 +79,4 @@ jobs:
         with:
           name: essentialsx-latest-build
           path: ${{ steps.jar-name.outputs.jar_file }}
-          retention-days: 365  # 可选：设置产物保留天数
+          retention-days: 60
